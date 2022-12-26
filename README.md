@@ -2,6 +2,8 @@
 
 React native hook for preloader and action message modal
 
+[![NPM](https://img.shields.io/npm/v/react-native-modal-util.svg)](https://www.npmjs.com/package/react-native-modal-util) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+
 ## Installation
 
 ```sh
